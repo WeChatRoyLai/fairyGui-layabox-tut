@@ -13552,7 +13552,7 @@
     UIConfig.bringWindowToFrontOnClick = true;
     UIConfig.frameTimeForAsyncUIConstruction = 2;
     UIConfig.textureLinearSampling = true;
-    UIConfig.packageFileExtension = "fui";
+    UIConfig.packageFileExtension = "bin";
     fgui.UIConfig = UIConfig;
 })(fgui);
 

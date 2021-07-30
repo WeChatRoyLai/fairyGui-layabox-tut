@@ -13,6 +13,5 @@ loadLib("libs/laya.ui.js")
 loadLib("libs/laya.physics.js")
 loadLib("libs/laya.html.js")
 //-----libs-end-------
-loadLib("libs/fairygui/rawinflate.min.js");
 loadLib("libs/fairygui/fairygui.js");
 loadLib("js/bundle.js");
